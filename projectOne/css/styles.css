@@ -28,6 +28,10 @@ h1 {
  * BEGIN EDITING FROM THIS POINT ONWARDS
  * =====================================
  */
+.offsite-is-open .offsite-container,
+.offsite-is-open .site-container {
+  transform: translateX(14rem);
+}
 
 /**
  * Containers
